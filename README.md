@@ -14,6 +14,45 @@
 - 📱 **Responsive Design** - Works seamlessly on all devices
 - 🔄 **Real-time Updates** - Live data synchronization with Appwrite
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+
+![Homepage](./public/screenshots/homepage.png)
+_Clean and modern interface with hero banner and popular movies_
+
+### 🔍 Search Functionality
+
+![Search Results](./public/screenshots/search-results.png)
+_Real-time search with movie cards showing posters and details_
+
+### 📈 Trending Movies Section
+
+![Trending Movies](./public/screenshots/trending-section.png)
+_Analytics-driven trending movies based on search frequency_
+
+### 📱 Mobile Responsive Design
+
+<div align="center">
+  <img src="./public/screenshots/mobile-view.png" alt="Mobile View" width="300"/>
+</div>
+_Fully responsive design that works perfectly on mobile devices_
+
+### 📱 iPad Responsive Design
+
+<div align="center">
+    <img src="./public/screenshots/ipad-view.png" alt="iPad View" width="500"/>
+</div>
+
+_Fully optimized layout for tablets and iPad devices_
+
+### 🎯 Movie Cards
+
+![Movie Cards](./public/screenshots/movie-cards.png)
+_Beautiful movie cards with high-quality posters and movie information_
+
+---
+
 ## 🚀 Technologies Used
 
 ### Frontend
